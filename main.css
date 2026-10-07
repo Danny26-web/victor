@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(255, 255, 255, 0.062);
+    border: 3px;
+}
+
+
+body {
+    background-color: yellow;
+}
+
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+
+    padding: 0px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a {
+    colour: white;
+}
